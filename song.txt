@@ -2,7 +2,10 @@ first line
 second line
 third line
 fourth line
+<<<<<<< HEAD
 
 fifth line
 sixth line
 -----------------
+=======
+>>>>>>> parent of ed0604e (revert test)
